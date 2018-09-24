@@ -9,8 +9,7 @@ Requirements:
 ```
 git clone https://github.com/G3ph4z/whatsmyip.git
 pip install flask
-<<<<<<< HEAD
-python app
+python3 app
 ```
 
 also you can use with docker:
