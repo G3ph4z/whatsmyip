@@ -9,5 +9,5 @@ Requirements:
 ```
 git clone https://github.com/G3ph4z/whatsmyip.git
 pip install flask
-python app
+python3 app
 ```
